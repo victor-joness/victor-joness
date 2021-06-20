@@ -56,9 +56,6 @@
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/victor-joness/count.svg" />
  </p>
-
 </p>
-
-![Snake animation](https://github.com/victor-joness/victor-joness/blob/output/github-contribution-grid-snake.svg)
