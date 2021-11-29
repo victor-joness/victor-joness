@@ -20,9 +20,9 @@
   
 ### Abstract
 
-- 🌱 Estudante de Ciência da computação, 1° semestre.
+- 🌱 Estudante de Ciência da computação, 2° semestre.
 - 🏛 Universidade federal do Ceará - UFC
-- 💙 Interesse: html, css, javaScript , typeScript, Bootstrap, C , React, react native , docker e PHP.
+- 💙 Interesse: html, css, javaScript , typeScript, Bootstrap, C , React, react native , Vue e PHP.
 - :video_game: Gosta de jogar Counter-Strike? É só chamar, vamos subir de patente juntos ou não hehehe.
 
 
@@ -44,7 +44,7 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+    <img height="35" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
 </p>
 
 ## Contact :iphone:
