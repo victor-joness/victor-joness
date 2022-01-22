@@ -23,6 +23,7 @@
 - 🌱 Estudante de Ciência da computação, 2° semestre.
 - 🏛 Universidade federal do Ceará - UFC
 - 💙 Interesse: html, css, javaScript , typeScript, Bootstrap, C , React, react native , Vue e PHP.
+- 📋 portfolio : https://victor-joness.github.io/Portifolio/
 - :video_game: Gosta de jogar Counter-Strike? É só chamar, vamos subir de patente juntos ou não hehehe.
 
 
