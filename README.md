@@ -6,7 +6,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-joness&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-joness&langs_count=6&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
