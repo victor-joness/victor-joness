@@ -13,7 +13,7 @@
 
 ## Skills :nerd_face:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,mysql,c,firebase,figma,express&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,redux,nextjs,nodejs,mysql,c,git,firebase,figma,express&perline=7" />
 </p>
 
 ## Contact :iphone:
