@@ -5,7 +5,7 @@
   
 ### Abstract
 
-- 🌱 Estudante de Ciência da computação, 4° semestre.
+- 🌱 Estudante de Ciência da computação, 5° semestre.
 - 🏛 Universidade federal do Ceará - UFC
 - 💙 Interesse: html, css, javaScript , typeScript, Bootstrap, C , ReactJS, react native , MySql.
 - 📋 portfolio : https://victor-joness.github.io/Portifolio/
