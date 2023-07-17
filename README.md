@@ -1,8 +1,8 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Olá,+eu+sou+o+Victor+Mesquita;Bem-vindo+ao+meu+perfil!;">
+
 ## Sobre mim: 
 <!-- <img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/> -->
-<!-- <img align="right" src="https://github.com/victor-joness/victor-joness/blob/main/programmer.gif?raw=true" height="250"/> -->
-
+<img align="right" src="https://github.com/victor-joness/victor-joness/blob/main/programmer.gif?raw=true" height="250"/>
 
 👩‍💻 Adoro resolver problemas através dos códigos e quero com isso poder ajudar a melhorar a vida das pessoas, desenvolvendo aplicações que sejam acessíveis e funcionais. 
 
