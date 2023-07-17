@@ -1,37 +1,50 @@
 
-## Olá, Me chamo Victor Mesquita e Sou Developer Web Front-end, seja bem vindo ao meu Github.
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Olá,+eu+sou+o+Victor+Mesquita;Bem-vindo+ao+meu+perfil!;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-joness&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Sobre mim: 
+
+<img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/>
+<!-- <img align="right" src="https://github.com/thiagodanobrega/thiagodanobrega/blob/main/programmer.gif?raw=true" height="250"/> -->
+
+
+👩‍💻 Adoro resolver problemas através dos códigos e quero com isso poder ajudar a melhorar a vida das pessoas, desenvolvendo aplicações que sejam acessíveis e funcionais. 
+
+🔭 Atualmente, sou estudante de ciências da computação na UFC e estou no 6° semestre, além disso sou bolsista com foco em programação para competição, que incluem OBI, SBC etc.
+
+🧠 Além das habilidades em desenvolvimento Android, Kotlin e Métodos Ágeis, tenho competências em Desenvolvimento Web que incluem: JavaScript, TypeScript, React, Redux, ContextAPI, Bootstrap, Html, Css, Jest, MySQL, Node, MongoDb.
+
+💬 Estou disponível para ajudar com Javascript, React, android...
+
+📫 Me encontre: **victorjonesmesquits@gmail.com**
   
-### Abstract
 
-- 🌱 Estudante de Ciência da computação, 5° semestre.
-- 🏛 Universidade federal do Ceará - UFC
-- 💙 Interesse: html, css, javaScript , typeScript, Bootstrap, C , ReactJS, react native , MySql.
-- 📋 portfolio : https://victor-joness.github.io/Portifolio/
-
-
-## Skills :nerd_face:
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,redux,nextjs,nodejs,mysql,c,git,firebase,figma,express&perline=7" />
-</p>
-
-## Contact :iphone:
+## Linguagens e ferramentas:
 
 <p align="center">
-    <a href="https://github.com/victor-joness">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/victor-joness">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:victorjonesmesquits@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorjonesmesquits@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/victor-mesquita-b6a211198/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/victor-mesquita-b6a211198/">
-    </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com/victor_mesquita15" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,bootstrap,css,html,jest,nodejs,mysql,git,figma&perline=7" />
 </p>
+   
+## Links:  
 
-![Snake animation](https://github.com/victor-joness/victor-joness/blob/output/github-contribution-grid-snake.svg)
+[![linkedin](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorjonesmesquits@gmail.com)](mailto:victorjonesmesquits@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mesquita-b6a211198/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victor-joness.github.io/Portifolio/)
+[![Resume Badge](https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://gitconnected.com/victor-joness/resume)
+
+## Estatística:
+
+<img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=victor-joness&show_icons=true&theme=algolia"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-joness&layout=compact&langs_count=7&theme=algolia"/>
+
+ <!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+ 
+     
