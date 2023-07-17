@@ -22,16 +22,15 @@
 </p>
    
 ## Links:  
-
-[![linkedin](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorjonesmesquits@gmail.com)](mailto:victorjonesmesquits@gmail.com)
+[![Email](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorjonesmesquits@gmail.com)](mailto:victorjonesmesquits@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mesquita-b6a211198/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victor-joness.github.io/Portifolio/)
 [![Resume Badge](https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://gitconnected.com/victor-joness/resume)
 
 ## Estatística:
 
-<img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=victor-joness&show_icons=true&theme=algolia"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-joness&layout=compact&langs_count=7&theme=algolia"/>
+<img height="170em" align="right" src="https://github-readme-stats.vercel.app/api?username=victor-joness&show_icons=true&theme=algolia"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-joness&layout=compact&langs_count=7&theme=algolia"/>
 
  <!--
 - 🔭 I’m currently working on ...
