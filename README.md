@@ -24,7 +24,7 @@
 ## Links:  
 [![Email](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorjonesmesquits@gmail.com)](mailto:victorjonesmesquits@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mesquita-b6a211198/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victor-joness.github.io/Portifolio/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-aocjxvs13-victor-joness.vercel.app/)
 [![Resume Badge](https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://gitconnected.com/victor-joness/resume)
 
 ## Estatística:
