@@ -18,7 +18,7 @@
 ## Linguagens e ferramentas:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,c#,dotnet,mui,docker,css,jest,nodejs,mysql,git,mongodb,redis,rabbitmq,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,cs,dotnet,mui,docker,css,jest,nodejs,mysql,git,mongodb,redis,rabbitmq,figma,postgres,aws&perline=10" />
 </p>
    
 ## Links:  
