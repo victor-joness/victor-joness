@@ -6,9 +6,9 @@
 
 👩‍💻 Adoro resolver problemas através dos códigos e quero com isso poder ajudar a melhorar a vida das pessoas, desenvolvendo aplicações que sejam acessíveis e funcionais. 
 
-🔭 Atualmente, sou estudante de ciências da computação na UFC e estou no 6° semestre, além disso sou bolsista com foco em programação para competição, que incluem OBI, SBC etc.
+🔭 Atualmente, sou estudante de ciências da computação na UFC e estou no 8° semestre.
 
-🧠 Além das habilidades em desenvolvimento Android e Métodos Ágeis, tenho competências em Desenvolvimento Web que incluem: JavaScript, TypeScript, React, Redux, ContextAPI, Bootstrap, Html, Css, Jest, MySQL, Node, MongoDb.
+🧠 Além das habilidades em desenvolvimento Android e Métodos Ágeis, tenho competências em Desenvolvimento Web que incluem: JavaScript, TypeScript, React, Redux, Node, C#, .NET, Jest, MySQL, MongoDb, Postgress, Redis, RabbitMQ.
 
 💬 Estou disponível para ajudar com Javascript, React, android...
 
@@ -18,7 +18,7 @@
 ## Linguagens e ferramentas:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,bootstrap,mui,html,css,jest,nodejs,mysql,github,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,c#,dotnet,mui,docker,css,jest,nodejs,mysql,git,mongodb,redis,rabbitmq,figma&perline=7" />
 </p>
    
 ## Links:  
